@@ -82,14 +82,3 @@ This project is licensed under the MIT License.
 ---
 
 _This project was generated using **MCP CLI** — Happy coding! 🚀_
-
-## Usage
-
-- Login to AgentR
-- Follow the quickstart guide to setup MCP Server for your client
-- Visit Apps Store and enable the Universal Mcp Fal AI app
-- Restart the MCP Server
-
-### Local Development
-
-- Follow the README to test with the local MCP Server 
