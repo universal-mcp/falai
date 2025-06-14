@@ -1,6 +1,6 @@
 # Falai Universal MCP Server
 
-This repository contains an implementation of an Falai Universal MCP (Model Context Protocol) server. It provides a standardized interface for interacting with Falai's SEO and backlink analysis tools through a unified API.
+This repository contains an implementation of an Falai Universal MCP (Model Context Protocol) server. It provides a standardized interface for interacting with Falai's tools and services through a unified API.
 
 The server is built using the Universal MCP framework.
 
